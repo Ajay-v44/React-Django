@@ -1,0 +1,68 @@
+.env1# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env1/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Compiled Python files
+*.pyc
+
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Yarn
+yarn-error.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+/build/
+/dist/
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Editor directories and files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
